@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **justinebijupaul@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.instagram.com/linxcapture?igsh=a25xM2plN2R1cjRt">Justine Biju Paul</a></h3>
 <p align="left">
 </p>
 
