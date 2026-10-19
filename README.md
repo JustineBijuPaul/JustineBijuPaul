@@ -8,7 +8,7 @@ Hi 👋 I'm Justine Biju Paul
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • AI Engineer • Machine Learning Researcher • Open Source Enthusiast
+Full Stack Developer • AI Engineer • Machine Learning Researcher • Open Source Enthusiast
 </h3>
 
 <p align="center">
@@ -73,45 +73,45 @@ const justine = {
     ],
 
     lifeGoal:
-        "Build India's most capable Programming AI Model 🚀"
+        "Build India's most capable Programming AI Model"
 }
 ```
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
-- 🔭 Building enterprise-grade AI SaaS platforms
+- Building enterprise-grade AI SaaS platforms
 
-- 🌱 Learning Large Language Models & AI Infrastructure
+- Learning Large Language Models & AI Infrastructure
 
-- 🤖 Developing autonomous AI Agents
+- Developing autonomous AI Agents
 
-- ☁️ Exploring scalable cloud-native architectures
+- Exploring scalable cloud-native architectures
 
-- 📚 Researching Machine Learning and Deep Learning
+- Researching Machine Learning and Deep Learning
 
-- 💬 Ask me anything about React, Next.js, Spring Boot, Node.js, PostgreSQL or AI
-
----
-
-# 🏆 Achievements
-
-🥇 NASA Space Apps Challenge Winner
-
-🏅 Best Outgoing Student (2022–2026)
-
-📄 Best Research Paper Award – IDIC 2.0
-
-💡 Youth Innovation Program 7.0 Funding Recipient
-
-🏗️ Built multiple production applications used by real businesses
+- Ask me anything about React, Next.js, Spring Boot, Node.js, PostgreSQL or AI
 
 ---
 
-# 💼 Experience
+# Achievements
 
-## 💻 Centre for Development of Advanced Computing (CDAC)
+NASA Space Apps Challenge Winner
+
+Best Outgoing Student (2022–2026)
+
+Best Research Paper Award – IDIC 2.0
+
+Youth Innovation Program 7.0 Funding Recipient
+
+Built multiple production applications used by real businesses
+
+---
+
+# Experience
+
+## Centre for Development of Advanced Computing (CDAC)
 
 **Full Stack Developer Intern**
 
@@ -129,7 +129,7 @@ const justine = {
 
 ---
 
-## 🌍 Freelance Full Stack Developer
+## Freelance Full Stack Developer
 
 **May 2024 — Dec 2025**
 
@@ -145,7 +145,7 @@ const justine = {
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -197,7 +197,7 @@ const justine = {
 
 ---
 
-# 📈 Coding Activity
+<!--# Coding Activity
 
 <p align="center">
 
@@ -206,21 +206,22 @@ const justine = {
 </p>
 
 ---
+-->
 
-# 🌟 Featured Projects
+# Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🌍 AI Enterprise Platform | Multi-tenant AI platform with knowledge bases, agents, workflows and LLM integrations |
-| 🌋 Seismic Analysis | CNN + BiLSTM earthquake detection and visualization |
-| 🏠 South Delhi Realty | Production real estate platform built with Next.js |
-| 💰 Tax and Taxes | Secure tax filing platform with Cashfree integration |
-| 🎬 Caster | Full-stack casting platform with Cloudinary media management |
-| 📍 Find Us | GDPR-compliant business discovery platform |
+| AI Enterprise Platform | Multi-tenant AI platform with knowledge bases, agents, workflows and LLM integrations |
+| Seismic Analysis | CNN + BiLSTM earthquake detection and visualization |
+| South Delhi Realty | Production real estate platform built with Next.js |
+| Tax and Taxes | Secure tax filing platform with Cashfree integration |
+| Caster | Full-stack casting platform with Cloudinary media management |
+| Find Us | GDPR-compliant business discovery platform |
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -232,7 +233,7 @@ const justine = {
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -242,7 +243,7 @@ const justine = {
 
 ---
 
-# 📊 Contribution Statistics
+# Contribution Statistics
 
 <p align="center">
 
@@ -268,7 +269,7 @@ const justine = {
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
@@ -278,7 +279,7 @@ const justine = {
 
 ---
 
-# 📈 Coding Metrics
+<!--# Coding Metrics
 
 <p align="center">
 
@@ -287,6 +288,7 @@ const justine = {
 </p>
 
 ---
+-->
 
 # ⚡ Development Environment
 
@@ -296,7 +298,7 @@ const justine = {
 
 <td align="center">
 
-💻 IDE
+IDE
 
 </td>
 
@@ -312,7 +314,7 @@ VS Code • Cursor • IntelliJ IDEA
 
 <td align="center">
 
-🖥️ OS
+OS
 
 </td>
 
@@ -328,7 +330,7 @@ Ubuntu Linux • Windows
 
 <td align="center">
 
-⚙️ Backend
+Backend
 
 </td>
 
@@ -344,7 +346,7 @@ Spring Boot • Node.js • Flask • Django
 
 <td align="center">
 
-🎨 Frontend
+Frontend
 
 </td>
 
@@ -360,7 +362,7 @@ React • Next.js • Tailwind CSS • React Native
 
 <td align="center">
 
-🗄️ Database
+Database
 
 </td>
 
@@ -376,7 +378,7 @@ PostgreSQL • MySQL • MongoDB
 
 <td align="center">
 
-🤖 AI
+AI
 
 </td>
 
@@ -392,7 +394,7 @@ TensorFlow • PyTorch • OpenCV • Scikit-Learn
 
 <td align="center">
 
-☁️ DevOps
+DevOps
 
 </td>
 
@@ -408,25 +410,25 @@ Docker • Git • GitHub • Linux
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
-- ✅ Build India's own Programming AI Model
+- Build India's own Programming AI Model
 
-- 🚀 Launch an Enterprise AI Platform
+- Launch an Enterprise AI Platform
 
-- 🤖 Publish advanced AI research
+- Publish advanced AI research
 
-- 🌍 Contribute more to Open Source
+- Contribute more to Open Source
 
-- 📚 Master Distributed Systems
+- Master Distributed Systems
 
-- ☁️ Deep dive into Kubernetes & Cloud Native
+- Deep dive into Kubernetes & Cloud Native
 
-- 🏆 Build products used by millions
+- Build products used by millions
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -454,7 +456,7 @@ Docker • Git • GitHub • Linux
 
 ---
 
-# 💬 Random Dev Quote
+# Random Dev Quote
 
 <p align="center">
 
@@ -480,7 +482,7 @@ If you like my work and want to support future open-source projects, AI research
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="center">
 
@@ -490,7 +492,7 @@ If you like my work and want to support future open-source projects, AI research
 
 ---
 
-# 💙 Thanks for visiting!
+# Thanks for visiting!
 
 <p align="center">
 
