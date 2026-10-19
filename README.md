@@ -97,15 +97,15 @@ const justine = {
 
 # Achievements
 
-NASA Space Apps Challenge Winner
+- NASA Space Apps Challenge Winner
 
-Best Outgoing Student (2022–2026)
+- Best Outgoing Student (2022–2026)
 
-Best Research Paper Award – IDIC 2.0
+- Best Research Paper Award – IDIC 2.0
 
-Youth Innovation Program 7.0 Funding Recipient
+- Youth Innovation Program 7.0 Funding Recipient
 
-Built multiple production applications used by real businesses
+- Built multiple production applications used by real businesses
 
 ---
 
